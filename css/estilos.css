@@ -513,7 +513,7 @@ body {
     width: 300px;
     border-radius: 100%;
     overflow: hidden;
-    border: 5px solid #2091f9;
+    border: 5px solid black;
     box-shadow: 5px 7px 25px rgba(0, 0, 0, 0.5);
 }
 

@@ -501,11 +501,13 @@ body {
 
 .cv {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     padding-top: 4rem;
     padding-bottom: 4rem;
     background-color: #6E6E6E;
+    margin: 0 auto;
 }
 
 .cv .cv-left {
